@@ -1,0 +1,14 @@
+Device: Redmi 12 5G / Poco M6 Pro 5G
+Device code name : sky
+Device maintainer: JazzeeBlaze x Suvojeet_Sengupta
+
+Date - 12/06/2024
+=================
+Hotfix Changelogs:
+• OTT apps crash fixed
+• Added Gcam, Vi Music
+• Fixed Lags and Jitters
+• Misc Improvements
+
+Credits
+• @lostark13
